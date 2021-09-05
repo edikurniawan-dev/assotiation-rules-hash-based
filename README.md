@@ -1,0 +1,1 @@
+# assotiation-rules-hash-based
